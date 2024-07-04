@@ -32,8 +32,6 @@ hr.hr {
     cursor: pointer;
     border-radius: 8px;
     padding: 10px 10px;
-    text-align: center;
-    display: inline-block;
     font-size: 15px;
     background-color: #333333;
 }
